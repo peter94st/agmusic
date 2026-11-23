@@ -1,0 +1,50 @@
+
+{
+  "navbar": {
+    "music": "Música",
+    "events": "Eventos",
+    "about": "Sobre mí",
+    "gallery": "Galería",
+    "contact": "Contacto",
+    "booking": "Contratación",
+    "selectLanguage": "Seleccionar idioma"
+  },
+  "hero": {
+      "tagline": "Artista de música electrónica",
+      "description": "Ritmos hipnóticos, atmósferas oscuras y energía que conecta la pista de baile.",
+      "listen": "Escuchar música",
+      "booking": "Contrataciones",
+      "scroll": "Descubre más"
+    },
+  "latestSet": {
+    "label": "Última sesión",
+    "coverAlt": "Portada de la última sesión musical",
+    "subtitle": "Latest mix / 2026",
+    "title": "FEEL THE SOUND.",
+    "description": "Una selección de sonidos electrónicos, ritmos hipnóticos y atmósferas diseñadas para perderse en la música.",
+    "listen": "Escuchar sesión",
+    "playerTitle": "Reproductor de la última sesión en SoundCloud"
+  },
+  "events": {
+    "label": "En directo",
+    "title": "PRÓXIMOS EVENTOS.",
+    "description": "Descubre dónde puedes vivir la experiencia A. GUILLEN en directo. Nos vemos en la pista de baile.",
+    "tickets": "Entradas",
+    "noEventsLabel": "Agenda",
+    "noEventsTitle": "PRÓXIMAMENTE.",
+    "noEventsDescription": "No hay eventos anunciados por el momento. Mantente atento a las próximas fechas."
+  },
+  "music": {
+    "title": "MI MÚSICA",
+    "latest": "Último lanzamiento"
+  },
+  "about": {
+    "title": "SOBRE EL ARTISTA",
+    "button": "Descubrir más"
+  },
+  "booking": {
+    "title": "CONTRATACIONES",
+    "description": "¿Organizas un evento? Hablemos.",
+    "button": "Contactar"
+  }
+}

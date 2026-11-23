@@ -1,0 +1,50 @@
+
+{
+  "navbar": {
+    "music": "Music",
+    "events": "Events",
+    "about": "About",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "booking": "Booking",
+    "selectLanguage": "Select language"
+  },
+  "hero": {
+      "tagline": "Electronic music artist",
+      "description": "Hypnotic rhythms, dark atmospheres and energy that connects the dancefloor.",
+      "listen": "Listen to music",
+      "booking": "Booking",
+      "scroll": "Discover more"
+    },
+  "latestSet": {
+    "label": "Latest session",
+    "coverAlt": "Latest music session cover",
+    "subtitle": "Latest mix / 2026",
+    "title": "FEEL THE SOUND.",
+    "description": "A selection of electronic sounds, hypnotic rhythms and atmospheres designed to get lost in the music.",
+    "listen": "Listen to the set",
+    "playerTitle": "Latest SoundCloud session player"
+  },
+  "events": {
+    "label": "Live",
+    "title": "UPCOMING EVENTS.",
+    "description": "Discover where you can experience A. GUILLEN live. See you on the dancefloor.",
+    "tickets": "Tickets",
+    "noEventsLabel": "Schedule",
+    "noEventsTitle": "COMING SOON.",
+    "noEventsDescription": "No upcoming events have been announced yet. Stay tuned for future dates."
+  },
+  "music": {
+    "title": "MY MUSIC",
+    "latest": "Latest release"
+  },
+  "about": {
+    "title": "ABOUT THE ARTIST",
+    "button": "Discover more"
+  },
+  "booking": {
+    "title": "BOOKING",
+    "description": "Organizing an event? Let's talk.",
+    "button": "Get in touch"
+  }
+}
