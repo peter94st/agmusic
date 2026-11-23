@@ -8,6 +8,7 @@ import image4 from "@/assets/gallery/rat.jpeg";
 import image5 from "@/assets/gallery/bendisiones.jpeg";
 import image6 from "@/assets/gallery/drink.jpeg";
 import image7 from "@/assets/gallery/gta.jpeg";
+import image8 from "@/assets/gallery/dj.jpeg";
 
 
 const images = [
@@ -15,9 +16,10 @@ const images = [
   { id: 2, src: image2, alt: "Festival crowd", className: "" },
   { id: 3, src: image3, alt: "DJ equipment", className: "" },
   { id: 4, src: image4, alt: "Electronic music event", className: "" },
-  { id: 5, src: image5, alt: "Live performance", className: "md:col-span-2" },
-  { id: 4, src: image6, alt: "Electronic music event", className: "" },
-  { id: 4, src: image7, alt: "Electronic music event", className: "" },
+{ id: 5, src: image8, alt: "Electronic music event", className: "" },
+  { id: 6, src: image5, alt: "Live performance", className: "md:col-span-2" },
+  { id: 7, src: image6, alt: "Electronic music event", className: "" },
+  { id: 8, src: image7, alt: "Electronic music event", className: "" },
 ];
 
 export default function Gallery() {
