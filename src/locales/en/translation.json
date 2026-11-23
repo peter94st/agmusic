@@ -26,9 +26,9 @@
     "playerTitle": "Latest SoundCloud session player"
   },
   "events": {
-    "label": "Live",
+    "label": "Alvaro Guillen live",
     "title": "UPCOMING EVENTS.",
-    "description": "Discover where you can experience A. GUILLEN live. See you on the dancefloor.",
+    "description": "Discover where you can experience ALVARO GUILLEN live. See you on the dancefloor.",
     "tickets": "Tickets",
     "noEventsLabel": "Schedule",
     "noEventsTitle": "COMING SOON.",
@@ -39,12 +39,22 @@
     "latest": "Latest release"
   },
   "about": {
-    "title": "ABOUT THE ARTIST",
-    "button": "Discover more"
+    "imageAlt": "DJ portrait",
+    "label": "The artist",
+    "title": "BEYOND THE MUSIC.",
+    "paragraph1": "Electronic music is much more than sounds and rhythms. It is an expression, a connection and a shared experience on the dancefloor.",
+    "paragraph2": "Through carefully curated music and high-energy sets, every performance aims to create a unique atmosphere where time stands still.",
+    "characteristic1": "Hypnotic sounds",
+    "characteristic2": "Underground energy",
+    "characteristic3": "Musical connection"
   },
   "booking": {
     "title": "BOOKING",
     "description": "Organizing an event? Let's talk.",
     "button": "Get in touch"
+  },
+  "gallery": {
+    "label": "Through the lens",
+    "title": "MOMENTS IN MOTION."
   }
 }

@@ -26,9 +26,9 @@
     "playerTitle": "Reproductor de la última sesión en SoundCloud"
   },
   "events": {
-    "label": "En directo",
+    "label": "Alvaro Guillen En directo",
     "title": "PRÓXIMOS EVENTOS.",
-    "description": "Descubre dónde puedes vivir la experiencia A. GUILLEN en directo. Nos vemos en la pista de baile.",
+    "description": "Descubre dónde puedes vivir la experiencia ALVARO GUILLEN en directo. Nos vemos en la pista de baile.",
     "tickets": "Entradas",
     "noEventsLabel": "Agenda",
     "noEventsTitle": "PRÓXIMAMENTE.",
@@ -39,12 +39,22 @@
     "latest": "Último lanzamiento"
   },
   "about": {
-    "title": "SOBRE EL ARTISTA",
-    "button": "Descubrir más"
+    "imageAlt": "Retrato del DJ",
+    "label": "El artista",
+    "title": "MÁS ALLÁ DE LA MÚSICA.",
+    "paragraph1": "La música electrónica es mucho más que sonidos y ritmos. Es una forma de expresión, una conexión y una experiencia compartida en la pista de baile.",
+    "paragraph2": "A través de una selección musical cuidada y sesiones cargadas de energía, cada actuación busca crear una atmósfera única donde perder la noción del tiempo.",
+    "characteristic1": "Sonidos hipnóticos",
+    "characteristic2": "Energía underground",
+    "characteristic3": "Conexión musical"
   },
   "booking": {
     "title": "CONTRATACIONES",
     "description": "¿Organizas un evento? Hablemos.",
     "button": "Contactar"
+  },
+  "gallery": {
+    "label": "En imágenes",
+    "title": "MOMENTOS EN MOVIMIENTO."
   }
 }
